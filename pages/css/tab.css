@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.video {
+    position: fixed;
+    z-index: 9;
+    opacity: 0;
+}
